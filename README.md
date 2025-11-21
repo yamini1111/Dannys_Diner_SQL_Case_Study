@@ -34,4 +34,3 @@ This case study has been taken from https://8weeksqlchallenge.com/case-study-1/.
 - JOIN_DATE
 
 
-This project is helpful in learning github
